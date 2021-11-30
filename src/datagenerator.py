@@ -2,6 +2,7 @@ import requests
 from requests.exceptions import HTTPError
 import time
 import json
+import os
 
 #Transformamos una direccion en coordenadas
 def geocode(direction):
@@ -30,8 +31,9 @@ El extra se usa para añadir más parametros sobre la query a la API de google m
 """
 
 def get_places_by_location_type_and_radius(center,g_type,radius,extra):
+    token = os.getenv("tok")
     try:
-        url = f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location={center}&radius={radius}&type={g_type}{extra}&key=AIzaSyC-WNNG9SkFEd2aTC0KzFsT3LvyQeJj36E"
+        url = f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location={center}&radius={radius}&type={g_type}{extra}&key={token}"
         response = requests.get(url)
     except HTTPError as http_err:
         print(f'HTTP error occurred: {http_err}')  
