@@ -1,0 +1,1901 @@
+{
+  "location": "48.84938,2.41788",
+  "train_station": {
+    "locations": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.84733699999999,
+            "lng": 2.433353
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8487213802915,
+              "lng": 2.434836750000001
+            },
+            "southwest": {
+              "lat": 48.8460234197085,
+              "lng": 2.42948415
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+        "name": "Vincennes",
+        "photos": [
+          {
+            "height": 4128,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100981567033985110977\">Thierry Girard</a>"
+            ],
+            "photo_reference": "Aap_uECUiPhdO64YYYVI8Q1qfNgQX5qpQoFhiTmzTjoBi-BB5YfQUnbZKEztEWQmh4giIyk26cMokqLtIVWdNLI1BR7v9F8fuZmAjBH9OMTYM0mMtPh9moNrNBpcrTyUwqmWRdR5ZhHvzcVqaCG87WPH-GvBTrQ-oqe6CqkujPoCxDnDXuqP",
+            "width": 3096
+          }
+        ],
+        "place_id": "ChIJbYVihJhy5kcRiPW2g5jM-QE",
+        "plus_code": {
+          "compound_code": "RCWM+W8 Vincennes, France",
+          "global_code": "8FW4RCWM+W8"
+        },
+        "rating": 3.7,
+        "reference": "ChIJbYVihJhy5kcRiPW2g5jM-QE",
+        "scope": "GOOGLE",
+        "types": [
+          "train_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 88,
+        "vicinity": "France"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.85814679999999,
+            "lng": 2.4045125
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.85951138029149,
+              "lng": 2.405897480291502
+            },
+            "southwest": {
+              "lat": 48.85681341970849,
+              "lng": 2.403199519708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+        "name": "Le Florian",
+        "photos": [
+          {
+            "height": 2160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106813425464726417789\">Austin Davenport Grier</a>"
+            ],
+            "photo_reference": "Aap_uEChgncmhHwiUJxYLgDaAx6ll9PRrS5YcRdZ1aimkfJveLb35xC8u5m-ogptHdELHlDGEF_1qskqdH0VgXgfIubvWsYvjhXGsM7v8AmaWGM6-x-_nh-DvbutliHdjpju0ZHkpSqRT-pPbXY3SnLOXqk0pE8Zm4yI9tdekhrPb3T9ZDWF",
+            "width": 3840
+          }
+        ],
+        "place_id": "ChIJL7aH74Zt5kcR-8W6Xrsv7QY",
+        "plus_code": {
+          "compound_code": "VC53+7R Paris, France",
+          "global_code": "8FW4VC53+7R"
+        },
+        "rating": 4.6,
+        "reference": "ChIJL7aH74Zt5kcR-8W6Xrsv7QY",
+        "scope": "GOOGLE",
+        "types": [
+          "train_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "1 Rue Florian, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8488468,
+            "lng": 2.3970395
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8502103802915,
+              "lng": 2.398520030291501
+            },
+            "southwest": {
+              "lat": 48.8475124197085,
+              "lng": 2.395822069708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Nation",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113742309830114396362\">Philippe ABONNEAU</a>"
+            ],
+            "photo_reference": "Aap_uECUs7XwD4Qx0LI6hYaoIrKI5riiizYIqBhri68hGILv9oojBveoo2-8YtI0uO_ywYtIAHL62d7cOi9QDpnti8YmL1_ggAberF75Ab6Pn8WqE8gfZ7mtDefmCblrunvtrf_5RK3V6_m60TuFAJzcrwAY31TvsZt26dzvibust6u6OXDH",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJo_rgEnFy5kcRrL3NwRRzJEg",
+        "plus_code": {
+          "compound_code": "R9XW+GR Paris, France",
+          "global_code": "8FW4R9XW+GR"
+        },
+        "rating": 3.9,
+        "reference": "ChIJo_rgEnFy5kcRrL3NwRRzJEg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "train_station",
+          "subway_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 262,
+        "vicinity": "Paris"
+      }
+    ],
+    "value": 30
+  },
+  "school": {
+    "locations": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8501692,
+            "lng": 2.4315249
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.85143008029149,
+              "lng": 2.432855930291502
+            },
+            "southwest": {
+              "lat": 48.84873211970849,
+              "lng": 2.430157969708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Lyc\u00e9e Claude Nicolas Ledoux - E.B.T.P.",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106445306296398853115\">\u00c9cole du B\u00e2timent et des Travaux Publics E.B.T.P</a>"
+            ],
+            "photo_reference": "Aap_uEBW7caf0sIcE5TRsdk6jMeh2FaSXiUo1hagnNx7xCYW1rJGY2NnzLT-y0RYL9oJEDjLQeXNYOWdn3gbivxpap8Fgp-VHHIlvP_Gt4z7tkymcjrJwKFiC-VtwsNAmRKvMSW40Hq1WA4IKEL7m_dkTKvxDYU1iwSZP0LEjuG0huVmFjG5",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJe9aJJ59y5kcR0mCGJgLBl80",
+        "plus_code": {
+          "compound_code": "VC2J+3J Vincennes, France",
+          "global_code": "8FW4VC2J+3J"
+        },
+        "rating": 3.3,
+        "reference": "ChIJe9aJJ59y5kcR0mCGJgLBl80",
+        "scope": "GOOGLE",
+        "types": [
+          "secondary_school",
+          "university",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 35,
+        "vicinity": "30 Rue de la Paix, Vincennes"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.84246089999999,
+            "lng": 2.4128769
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.84379293029149,
+              "lng": 2.414347730291502
+            },
+            "southwest": {
+              "lat": 48.84109496970849,
+              "lng": 2.411649769708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Coll\u00e8ge / Lyc\u00e9e Georges Leven",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 439,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112636170895725295159\">Coll\u00e8ge/Lyc\u00e9e Georges Leven</a>"
+            ],
+            "photo_reference": "Aap_uEDYI2bbLtFbvcQz0AAoTN4295gjnC5CNzAz45xslgzXvoI81FzSDZtbkPsSUPlMgxh-OjJyNVbWI80TtQg8bZuGKYMdpr6xBqm2Z5VfK-oBZ4urKuFWec1JJRO3nPWibmKuSnOVlEUcgUaC-75QpxyFcE1G4CQVuUhMOrGbRml132v8",
+            "width": 660
+          }
+        ],
+        "place_id": "ChIJUYKWTIhy5kcRf1kU4in81dU",
+        "plus_code": {
+          "compound_code": "RCR7+X5 Paris, France",
+          "global_code": "8FW4RCR7+X5"
+        },
+        "rating": 3,
+        "reference": "ChIJUYKWTIhy5kcRf1kU4in81dU",
+        "scope": "GOOGLE",
+        "types": [
+          "secondary_school",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 13,
+        "vicinity": "30 Boulevard Carnot, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.83916079999999,
+            "lng": 2.409058299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.84048363029149,
+              "lng": 2.410402430291501
+            },
+            "southwest": {
+              "lat": 48.8377856697085,
+              "lng": 2.407704469708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "City School Public Paul Val\u00e9ry",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 486,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114174650827980475999\">BK_ Jota</a>"
+            ],
+            "photo_reference": "Aap_uEBXucevVix2ZD8RElwhybPtmyDOM3_gK3PcBTRMh7AqYOPcGhzJPOG775_YFGyTu7TFhAwv492J8h13DxLV-9-UwA8Tq27DynYUUKvzvZJsS1a_q_SZpeUMbVjX6NkGWXVHgzUgqNtokKqHbjlrFmpjZAdpWPYRuAIxUgnASslitruk",
+            "width": 726
+          }
+        ],
+        "place_id": "ChIJgw9p8GFy5kcRJFEo8lIMV_g",
+        "plus_code": {
+          "compound_code": "RCQ5+MJ Paris, France",
+          "global_code": "8FW4RCQ5+MJ"
+        },
+        "rating": 3.1,
+        "reference": "ChIJgw9p8GFy5kcRJFEo8lIMV_g",
+        "scope": "GOOGLE",
+        "types": [
+          "secondary_school",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 65,
+        "vicinity": "38 Boulevard Soult, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8478188,
+            "lng": 2.4069543
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8489900302915,
+              "lng": 2.408393830291502
+            },
+            "southwest": {
+              "lat": 48.8462920697085,
+              "lng": 2.405695869708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Middle School School Public H\u00e9l\u00e8ne Boucher",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106964608811609197977\">Nhuan DoDuc</a>"
+            ],
+            "photo_reference": "Aap_uEBZxiYhBv1r9iHhN40mqOyDcCsMKUckgUWBaUyQzH2o8dyhVsB5Sy_67BJLkNEAYHRh7-z5wN819zyn4jdgbABF3ytifnrOOMQGQY66S8lOcefYd4oaNzWpWQWj9y7incZAOGbA7_-kg-NfOFHFJ4oPSF1iA54n1-h0_K68v5Q9YRHz",
+            "width": 3840
+          }
+        ],
+        "place_id": "ChIJKeobQnxy5kcRPhh8w5qNn5w",
+        "plus_code": {
+          "compound_code": "RCX4+4Q Paris, France",
+          "global_code": "8FW4RCX4+4Q"
+        },
+        "rating": 4.2,
+        "reference": "ChIJKeobQnxy5kcRPhh8w5qNn5w",
+        "scope": "GOOGLE",
+        "types": [
+          "secondary_school",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 69,
+        "vicinity": "75 Cours de Vincennes, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.83943670000001,
+            "lng": 2.4019132
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.84093498029151,
+              "lng": 2.403264880291502
+            },
+            "southwest": {
+              "lat": 48.83823701970851,
+              "lng": 2.400566919708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Circle Shape Picpus - Gym Paris 12e",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 531,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117521388557052069918\">Cercle de la Forme Picpus - salle de sport paris 12e</a>"
+            ],
+            "photo_reference": "Aap_uEDnu92i7o3QC8aMzRBR1kMoAgtaMPOpyeERR7sZFMz6pr2xmv2Hxit-UUWsjpSRBUNN_-UDF4nRazx_b0pc6dz09FVaN39OP287FCAfqj9pDf0ocsSPVvY-HcibIK2Uu4bhYE9vzJCX4F1rFXTZoGJ9wRes8ggHoq-d1eZEWhLm-mwu",
+            "width": 800
+          }
+        ],
+        "place_id": "ChIJnYelfmZy5kcRU6gD9Q_JBVs",
+        "plus_code": {
+          "compound_code": "RCQ2+QQ Paris, France",
+          "global_code": "8FW4RCQ2+QQ"
+        },
+        "rating": 3.7,
+        "reference": "ChIJnYelfmZy5kcRU6gD9Q_JBVs",
+        "scope": "GOOGLE",
+        "types": [
+          "spa",
+          "school",
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 91,
+        "vicinity": "16 Rue Louis Braille, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8483069,
+            "lng": 2.408499899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.84963183029149,
+              "lng": 2.410148530291501
+            },
+            "southwest": {
+              "lat": 48.8469338697085,
+              "lng": 2.407450569708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "City School Public Maurice Ravel",
+        "photos": [
+          {
+            "height": 1588,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110552325960459238662\">Louise Boisnais</a>"
+            ],
+            "photo_reference": "Aap_uECi-Fw3WdjRR63RGKJ31eb-d66_Ddqn2DC5kNBGxh1_JcOs_Mf5YT7U32nInM8OJoixHuZ7VehUw8NNudSq_uOK_Wh9ObV_nAzEvA-1dqk-X3QNhvRuAUOSwervEU3Y-VSi_qqJwcQaWtB2w_-zmo0hDt6M0jwLXLHa0P0YvFkyOgGF",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJBx1hVHxy5kcR0W3N1rHxqGQ",
+        "plus_code": {
+          "compound_code": "RCX5+89 Paris, France",
+          "global_code": "8FW4RCX5+89"
+        },
+        "rating": 3.2,
+        "reference": "ChIJBx1hVHxy5kcR0W3N1rHxqGQ",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "secondary_school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 58,
+        "vicinity": "89 Cours de Vincennes, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.85439299999999,
+            "lng": 2.392427
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8557141802915,
+              "lng": 2.393672530291502
+            },
+            "southwest": {
+              "lat": 48.8530162197085,
+              "lng": 2.390974569708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "School Dorian",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100776392714461412286\">Clothilde Muheisen</a>"
+            ],
+            "photo_reference": "Aap_uEBO__kFLYUgn92eTSK4JM5mx7PHCQ4fEWLwyVF795c2_GVbgREjtLKpn08XXlCB0491y4WwOHOBvx80B3_okwoIOjuzw-JGWVy6VbA9c52nh6NmFP7DSnYpB83dN9U6X2ZDHzGNjh7fCTgTrGxpeq4S9c6DiMVrUqCkAx0wEfLXuQo",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJSca3kXVy5kcRdpLhif5nwzE",
+        "plus_code": {
+          "compound_code": "V93R+QX Paris, France",
+          "global_code": "8FW4V93R+QX"
+        },
+        "rating": 3.1,
+        "reference": "ChIJSca3kXVy5kcRdpLhif5nwzE",
+        "scope": "GOOGLE",
+        "types": [
+          "secondary_school",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 41,
+        "vicinity": "74 Avenue Philippe Auguste, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8479299,
+            "lng": 2.3943127
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8494200802915,
+              "lng": 2.395728630291501
+            },
+            "southwest": {
+              "lat": 48.8467221197085,
+              "lng": 2.393030669708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "School Arago",
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109835897281986996309\">Jilal Achiche</a>"
+            ],
+            "photo_reference": "Aap_uEB1w_u84znmydDSZo1Bx2hZCffn_oRBhPxMmSWORTUepBQjtNl1rSbvTPdB61XINdEquWvhXdRg3wyPQ4AOX2vaOt9nTPMxphduV9bbzBNzs2JlD3gswT9oIZTBD7ubs_W2to7WlFLqc3RGPzQFZ5A-Gwx0cP8oEzReB2ejBBGT1uQa",
+            "width": 2560
+          }
+        ],
+        "place_id": "ChIJpYzS0nNy5kcRxR_ZIgLREHM",
+        "plus_code": {
+          "compound_code": "R9XV+5P Paris, France",
+          "global_code": "8FW4R9XV+5P"
+        },
+        "rating": 3.5,
+        "reference": "ChIJpYzS0nNy5kcRxR_ZIgLREHM",
+        "scope": "GOOGLE",
+        "types": [
+          "secondary_school",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 40,
+        "vicinity": "4 Place de la Nation, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.83607480000001,
+            "lng": 2.4097042
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8376688802915,
+              "lng": 2.410892330291502
+            },
+            "southwest": {
+              "lat": 48.8349709197085,
+              "lng": 2.408194369708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "School Elisa Lemonnier",
+        "photos": [
+          {
+            "height": 992,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118151634349341947897\">mervedie</a>"
+            ],
+            "photo_reference": "Aap_uEAUkc934gAvi7BKfVK86SVU8AueQIT5jOgui5pBw9U6S5Cn-lOv1rw0-GvMR3MRxwKSsTP3fDO5zS1VxeJZZhiKlmQhWhzgnI6zcVEVO3XecUAk2hEgIBhO0OfLvKp1Gn7iYvHJdCS_1G9H1xSGl6WseXor34xKvN3GhPdude_fx9z-",
+            "width": 744
+          }
+        ],
+        "place_id": "ChIJLRcFPmBy5kcRQYrnBSWifPs",
+        "plus_code": {
+          "compound_code": "RCP5+CV Paris, France",
+          "global_code": "8FW4RCP5+CV"
+        },
+        "rating": 3.7,
+        "reference": "ChIJLRcFPmBy5kcRQYrnBSWifPs",
+        "scope": "GOOGLE",
+        "types": [
+          "secondary_school",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 62,
+        "vicinity": "20 Avenue Armand Rousseau, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8610924,
+            "lng": 2.4047385
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.86246063029149,
+              "lng": 2.406136030291501
+            },
+            "southwest": {
+              "lat": 48.8597626697085,
+              "lng": 2.403438069708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Establishment Private School Saint Germain De Charonne La Salle",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJl_X2SYRt5kcRPZbCCPadd_Y",
+        "plus_code": {
+          "compound_code": "VC63+CV Paris, France",
+          "global_code": "8FW4VC63+CV"
+        },
+        "rating": 3.8,
+        "reference": "ChIJl_X2SYRt5kcRPZbCCPadd_Y",
+        "scope": "GOOGLE",
+        "types": [
+          "secondary_school",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 35,
+        "vicinity": "3 Rue des Prairies, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8494257,
+            "lng": 2.4394426
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8507236302915,
+              "lng": 2.440791430291501
+            },
+            "southwest": {
+              "lat": 48.8480256697085,
+              "lng": 2.438093469708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Sports Association Coll\u00e8ge Saint-Exup\u00e9ry",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106569016813246913086\">John John</a>"
+            ],
+            "photo_reference": "Aap_uEDKI7l6Rt_0-JjSHWTlBwcZgX_iv_D8cLYlSDyMPFky9RwZyXIQqjb_78k9v-or13K_wdft384Xqn_IIYVJp4jyBUj4kVn2CLel9S2cSG92mGKfeSfS74NA4jg64U1vg3d2lrh30T4z4pvjZmJh75wozgfCRFnFNhgoUcTfh8RjIlr5",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJaW_TVKFy5kcRNiU4HDXLGGk",
+        "plus_code": {
+          "compound_code": "RCXQ+QQ Vincennes, France",
+          "global_code": "8FW4RCXQ+QQ"
+        },
+        "rating": 4.8,
+        "reference": "ChIJaW_TVKFy5kcRNiU4HDXLGGk",
+        "scope": "GOOGLE",
+        "types": [
+          "secondary_school",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "5 Rue de la Libert\u00e9, Vincennes"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.83467659999999,
+            "lng": 2.4129585
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8360606802915,
+              "lng": 2.414285380291502
+            },
+            "southwest": {
+              "lat": 48.8333627197085,
+              "lng": 2.411587419708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Les Petits Castors Creche Parentale",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117560001991417706767\">Phil Photograph</a>"
+            ],
+            "photo_reference": "Aap_uEAx6rrxs36KDaBfLoDoWmp5_qIw7GCSb0IkxrlEcNKQEYjwp8seAEAyWgLf3YR3-ehvVs2jcYIFcRorRvqInI-uK6ZPVlJpzX8uDiiFVALbmN-JqauBoe5AEFFlp0kPUeXEqgWb8u8ykNVW8OjkOmGymbREVak8zJa019TZwBG66-9t",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJ0W94K4ty5kcReq26WVhQIGM",
+        "plus_code": {
+          "compound_code": "RCM7+V5 Saint-Mand\u00e9, France",
+          "global_code": "8FW4RCM7+V5"
+        },
+        "reference": "ChIJ0W94K4ty5kcReq26WVhQIGM",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "77 Avenue Sainte-Marie, Saint-Mand\u00e9"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.85841120000001,
+            "lng": 2.4163775
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8598301802915,
+              "lng": 2.417777980291502
+            },
+            "southwest": {
+              "lat": 48.8571322197085,
+              "lng": 2.415080019708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "DORANCO Ecole Sup\u00e9rieure des Technologies Cr\u00e9atives Bagnolet",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101326767140748169626\">DORANCO Ecole Sup\u00e9rieure des Technologies Cr\u00e9atives Bagnolet</a>"
+            ],
+            "photo_reference": "Aap_uEDx3LQc2gtq37a9MVz0jTXLv9kw5yxim4Zd7-NmIODE0u_PzZW_DIA6WZ8v9ASslgfcETLm12IaiJnFemwNT_A4KiK8PqTZQfOpN0tj55Qqn7LVgwonv4hPm2JnShfo8eET33EjWDuG3EQ0K1h8fLvQ_KcwDPEI4iqApw2uVNWwZOfH",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJrUWz635t5kcR4n7--Vtba-s",
+        "plus_code": {
+          "compound_code": "VC58+9H Bagnolet, France",
+          "global_code": "8FW4VC58+9H"
+        },
+        "rating": 3.4,
+        "reference": "ChIJrUWz635t5kcR4n7--Vtba-s",
+        "scope": "GOOGLE",
+        "types": [
+          "university",
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 25,
+        "vicinity": "55 Rue du Lieutenant Thomas, Bagnolet"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8544388,
+            "lng": 2.4332935
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8557543802915,
+              "lng": 2.434766030291502
+            },
+            "southwest": {
+              "lat": 48.8530564197085,
+              "lng": 2.432068069708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Lingo Club, Cours D'anglais Montreuil",
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105593296798015889327\">LINGO CLUB, cours d&#39;anglais Montreuil</a>"
+            ],
+            "photo_reference": "Aap_uEDExL5_xL5nhPtE91zNsCJdMmwATQGUH249IVb1l3RmFUSvfRKUOy_hvxwSryDMUpzgJW2rhGrIzztuTIQi1MtDHXzlwnx8-KDz4GoNO3gJwGK41kA_5KQgD8i_DDUvJtQLZ66mfhX53xfKzbtFxV_6FrllKVJVdexcq2mAjMz_7skt",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJbSMX1F9t5kcRImJTtMlop4A",
+        "plus_code": {
+          "compound_code": "VC3M+Q8 Montreuil, France",
+          "global_code": "8FW4VC3M+Q8"
+        },
+        "rating": 5,
+        "reference": "ChIJbSMX1F9t5kcRImJTtMlop4A",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "52 Rue du Sergent Bobillot, Montreuil"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8561138,
+            "lng": 2.3964023
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8574956802915,
+              "lng": 2.397693430291502
+            },
+            "southwest": {
+              "lat": 48.8547977197085,
+              "lng": 2.394995469708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Ecole Super Technique Biologie Appliqu",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJuan_6Ylt5kcRU0UGQlM2B3c",
+        "plus_code": {
+          "compound_code": "V94W+CH Paris, France",
+          "global_code": "8FW4V94W+CH"
+        },
+        "rating": 3.5,
+        "reference": "ChIJuan_6Ylt5kcRU0UGQlM2B3c",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 19,
+        "vicinity": "56 Rue Planchat, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.850558,
+            "lng": 2.4057479
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8518288802915,
+              "lng": 2.407120080291501
+            },
+            "southwest": {
+              "lat": 48.8491309197085,
+              "lng": 2.404422119708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Emmanuel Bernard",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJYwjfCH9y5kcRSS0RkawId-A",
+        "plus_code": {
+          "compound_code": "VC24+67 Paris, France",
+          "global_code": "8FW4VC24+67"
+        },
+        "rating": 5,
+        "reference": "ChIJYwjfCH9y5kcRSS0RkawId-A",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "81 Rue de la Plaine, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.837181,
+            "lng": 2.4161774
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8385244802915,
+              "lng": 2.417529630291502
+            },
+            "southwest": {
+              "lat": 48.8358265197085,
+              "lng": 2.414831669708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "School Charles Digeon",
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113471986614039364147\">Bruno Le Brize</a>"
+            ],
+            "photo_reference": "Aap_uECJf_LILId_9gmguSpgySm9nsD1U6gulzOXsCBNOv_EoD1LTw_kUGhxpdKYgJPr6uVREOHMlOEvgK7VLofsmW-BDFtbNL1JKjXEMfNxGYrEY3naJLQjpQ4Sq41R9w_lE3FZZgBL2_qioLcasXiKORQT_D64ixYvHNjLAPJUpwUQ7J0M",
+            "width": 360
+          }
+        ],
+        "place_id": "ChIJnRUjfoxy5kcRjEtqwKGFgIE",
+        "plus_code": {
+          "compound_code": "RCP8+VF Saint-Mand\u00e9, France",
+          "global_code": "8FW4RCP8+VF"
+        },
+        "rating": 4.1,
+        "reference": "ChIJnRUjfoxy5kcRjEtqwKGFgIE",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "primary_school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "26 Rue du Commandant Ren\u00e9 Mouchotte, Saint-Mand\u00e9"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8480771,
+            "lng": 2.428625100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8494396302915,
+              "lng": 2.430048030291502
+            },
+            "southwest": {
+              "lat": 48.8467416697085,
+              "lng": 2.427350069708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Nursery School Westerly",
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115021272616386430175\">Matthieu Herdegen</a>"
+            ],
+            "photo_reference": "Aap_uEC2I4DNX8cAsAcjnB9S6nU5v6UmgpgDS9J9wLpB1vCZ35v1-STnXeaRiQ22ryTg4BY5fGl9GRZ0QsuY4TAIG9NmWCEv4oRjANG_B3hKSn7Bamf5Fp5IfHtn5wu3kqjzmhXXmLCrl7SHIsL-ABDqZ5neOQa08mOcPkePYu2I4OnOSz8N",
+            "width": 2448
+          }
+        ],
+        "place_id": "ChIJp9k1VaFy5kcRZ6SP-6t1ioU",
+        "plus_code": {
+          "compound_code": "RCXH+6F Vincennes, France",
+          "global_code": "8FW4RCXH+6F"
+        },
+        "reference": "ChIJp9k1VaFy5kcRZ6SP-6t1ioU",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3 Rue de l'\u00c9galit\u00e9, Vincennes"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8478319,
+            "lng": 2.4215686
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8492111802915,
+              "lng": 2.422996330291502
+            },
+            "southwest": {
+              "lat": 48.8465132197085,
+              "lng": 2.420298369708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Nursery School Joseph Clouet",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117738446121557724407\">Aurelie Nizinski</a>"
+            ],
+            "photo_reference": "Aap_uECUnKYRgRxDSjxma6JfaQffsefagC-lmqg_VeKYklgTyotw6tgGk71wQEG4y9OPIDRBiM2MUy2PAGNGQCOjtuGm6BbBdaRq3eMwDVAXgPS8cqTj5u5iO56LP1LFmPtpVf29K28fLZIZJc1JFoYp-wPwATHOsXAc_C2Y5TXjr8Jcvtw_",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ68iYxYRy5kcRFMgEUvQQsto",
+        "plus_code": {
+          "compound_code": "RCXC+4J Vincennes, France",
+          "global_code": "8FW4RCXC+4J"
+        },
+        "rating": 4,
+        "reference": "ChIJ68iYxYRy5kcRFMgEUvQQsto",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "11 Rue Georges Huchon, Vincennes"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.84337070000001,
+            "lng": 2.4310376
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8447597302915,
+              "lng": 2.431993180291502
+            },
+            "southwest": {
+              "lat": 48.8420617697085,
+              "lng": 2.429295219708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Nursery School Franklin Roosevelt",
+        "place_id": "ChIJp9k1VaFy5kcRSrJq6T-Clqg",
+        "plus_code": {
+          "compound_code": "RCVJ+8C Vincennes, France",
+          "global_code": "8FW4RCVJ+8C"
+        },
+        "rating": 4.3,
+        "reference": "ChIJp9k1VaFy5kcRSrJq6T-Clqg",
+        "scope": "GOOGLE",
+        "types": [
+          "school",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "3 All\u00e9e Georges M\u00e9li\u00e8s, Vincennes"
+      }
+    ],
+    "value": 1000
+  },
+  "night_club": {
+    "locations": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8429063,
+            "lng": 2.4221006
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8442892302915,
+              "lng": 2.423451530291502
+            },
+            "southwest": {
+              "lat": 48.8415912697085,
+              "lng": 2.420753569708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "New Chalet du Lac",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1299,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102167644807058087943\">Nouveau Chalet du Lac</a>"
+            ],
+            "photo_reference": "Aap_uEDhFOo67GoAblOIvSeFfaFJeG2x8yz6H2p7Out5EldWm98kOMP3fRGF0Rds7iFpAUf6Dfy4t0Rb7W6Bkdd8DXdgC_rBH8QraR4uCGjwjLLe8lZrNMuuv_dX_Eb43h9Ogo4RYY7tv72WT1zJep4spsb0uKbHSj297ZQiNyf9PrIYFcOE",
+            "width": 1952
+          }
+        ],
+        "place_id": "ChIJxYCuI3By5kcR2va6TDSFMv4",
+        "plus_code": {
+          "compound_code": "RCVC+5R Paris, France",
+          "global_code": "8FW4RCVC+5R"
+        },
+        "rating": 3.6,
+        "reference": "ChIJxYCuI3By5kcR2va6TDSFMv4",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2022,
+        "vicinity": "Or\u00e9e du Bois de Vincennes, Avenue de Bel Air, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8488177,
+            "lng": 2.4023889
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8501848802915,
+              "lng": 2.403737380291502
+            },
+            "southwest": {
+              "lat": 48.8474869197085,
+              "lng": 2.401039419708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "ALMAZ Chicha Paris",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109823210891904018216\">ALMAZ Chicha Paris</a>"
+            ],
+            "photo_reference": "Aap_uECs9xNagyLvrjT2wgYlDaEjc3ufArqWsxC63hy1u3rjZSzvNupL9Hsjl_W4IfS50TgZNnajs7y1iYx1foRh7qowsZL1Ohv_7d2fwuk1vBuOUwyz4_XTKLQnTxTMcn3j2fPMG5ZgJ-3O9gC_Zb9iJyIRx74BCMiAV-5fPja_pZE_ypw6",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJExExNnpy5kcRnxn1x1fFcJ4",
+        "plus_code": {
+          "compound_code": "RCX2+GX Paris, France",
+          "global_code": "8FW4RCX2+GX"
+        },
+        "rating": 4.2,
+        "reference": "ChIJExExNnpy5kcRnxn1x1fFcJ4",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "cafe",
+          "bar",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 194,
+        "vicinity": "30 Rue de Lagny, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.85596289999999,
+            "lng": 2.404168
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.85729178029149,
+              "lng": 2.405612030291502
+            },
+            "southwest": {
+              "lat": 48.8545938197085,
+              "lng": 2.402914069708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "FOX CLUB PARIS",
+        "place_id": "ChIJPyb3cYdt5kcRsFW3jdsxcgs",
+        "plus_code": {
+          "compound_code": "VC43+9M Paris, France",
+          "global_code": "8FW4VC43+9M"
+        },
+        "reference": "ChIJPyb3cYdt5kcRsFW3jdsxcgs",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "109 Rue des Haies, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8502896,
+            "lng": 2.3922567
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8516952302915,
+              "lng": 2.393675980291502
+            },
+            "southwest": {
+              "lat": 48.8489972697085,
+              "lng": 2.390978019708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "La Coloc Bazar",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107346440964742155314\">Robin Leynaud</a>"
+            ],
+            "photo_reference": "Aap_uEDgxCCVf41jxhbUOstw2MeBjZqsL5KqLZqDYkfTzobaLnEcJ9CXUZM2cCAAXl82kpwlgqnxFVLfFrGc-q8z2Z5rzzKJRP-7cWP8hI8Izx6hYaVL9j5Yo6uWkcHuuMDniGIpHXG9fc-sJYtJOqNcVVa07ZWBmhIpmqkDhxaPo1HHsP3A",
+            "width": 717
+          }
+        ],
+        "place_id": "ChIJ_bzyeHRy5kcR3OnHRnoTtsg",
+        "plus_code": {
+          "compound_code": "V92R+4W Paris, France",
+          "global_code": "8FW4V92R+4W"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ_bzyeHRy5kcR3OnHRnoTtsg",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 18,
+        "vicinity": "262 Boulevard Voltaire, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8594913,
+            "lng": 2.4030945
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8608954802915,
+              "lng": 2.404473430291502
+            },
+            "southwest": {
+              "lat": 48.8581975197085,
+              "lng": 2.401775469708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Le Gambetta",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102438865516451026643\">Ga\u00e9 Lucas</a>"
+            ],
+            "photo_reference": "Aap_uEA0cwqH0-grt7vaIpaTlluik_bvbSGP6gDA3-yOdmnDVQu9aGxbhrM6uUrTqQno48if8YgdAo2WxTZBe0dspeFHE6Ae8LePoVE-g4d4LVUUQtfkTLAST69FuMzo82J7FfbkfPvfmIbkkJoHoKsS1DFiXyCbLv39NlkyIa3Q4F7DUWyl",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ0Yx3cIZt5kcRnmQojz_PRnc",
+        "plus_code": {
+          "compound_code": "VC53+Q6 Paris, France",
+          "global_code": "8FW4VC53+Q6"
+        },
+        "rating": 3.4,
+        "reference": "ChIJ0Yx3cIZt5kcRnmQojz_PRnc",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 328,
+        "vicinity": "104 Rue de Bagnolet, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.85214260000001,
+            "lng": 2.4241794
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.85347783029151,
+              "lng": 2.425420080291502
+            },
+            "southwest": {
+              "lat": 48.85077986970851,
+              "lng": 2.422722119708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Club Du Disque Arabe",
+        "place_id": "ChIJVVUVIJ1y5kcR8xPoVPuB4Xw",
+        "plus_code": {
+          "compound_code": "VC2F+VM Montreuil, France",
+          "global_code": "8FW4VC2F+VM"
+        },
+        "reference": "ChIJVVUVIJ1y5kcR8xPoVPuB4Xw",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "67 Rue Robespierre, Montreuil"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8479421,
+            "lng": 2.4092246
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.84929768029149,
+              "lng": 2.410482730291502
+            },
+            "southwest": {
+              "lat": 48.8465997197085,
+              "lng": 2.407784769708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Viola",
+        "place_id": "ChIJaUDLrZJz5kcRD0gkdjFthtU",
+        "plus_code": {
+          "compound_code": "RCX5+5M Paris, France",
+          "global_code": "8FW4RCX5+5M"
+        },
+        "reference": "ChIJaUDLrZJz5kcRD0gkdjFthtU",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "6 Rue du G\u00e9n\u00e9ral Niessel, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.853171,
+            "lng": 2.4061534
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8544964302915,
+              "lng": 2.407424230291502
+            },
+            "southwest": {
+              "lat": 48.8517984697085,
+              "lng": 2.404726269708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Le Piano Pub",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 809,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115834308724236480490\">Le Piano Pub</a>"
+            ],
+            "photo_reference": "Aap_uEDx-Hl_zDfxOpg-mgl8OQ-mCFsF8ifr99DbRqD4YyOV-01ewjBFLobDqCxNT2HM_ro-h_kCWgIA2KZ8ucNxnxFBRg3L7vQvKOaDwB6Lp3jPEDs6IbPPo0TJYUYIp60ZEW-JX2XCskQJUYC6swbBC7InO5iP1BwgkqjTwWUumEtQbGYH",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJw8b6sT5z5kcRbTWda9yLGwI",
+        "plus_code": {
+          "compound_code": "VC34+7F Paris, France",
+          "global_code": "8FW4VC34+7F"
+        },
+        "rating": 5,
+        "reference": "ChIJw8b6sT5z5kcRbTWda9yLGwI",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 12,
+        "vicinity": "64 Rue des Pyr\u00e9n\u00e9es, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.85873160000001,
+            "lng": 2.4263891
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.86017218029151,
+              "lng": 2.427803230291501
+            },
+            "southwest": {
+              "lat": 48.85747421970851,
+              "lng": 2.425105269708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Sun Lounge 7",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1836,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103345700774958659889\">Abdel Allam</a>"
+            ],
+            "photo_reference": "Aap_uEDTLG3qJUBu1zhgEADykO028X6UqLeFm7Pm9BK2eCvljHm3ELBo_FLtVZraSu4uOmQx_gqPCkzmo_93S-8SP-jpHjlVNk89wSZZoSBfAwPT-40QBRAX1s9Mcp-T4HMNqqlzFfCdLNlPvWbSCz75bd8VMDY7cUnoPGsQNwBNsHPYItaA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJc3CxnWNt5kcR2vHsOAHxGfg",
+        "plus_code": {
+          "compound_code": "VC5G+FH Montreuil, France",
+          "global_code": "8FW4VC5G+FH"
+        },
+        "rating": 2.6,
+        "reference": "ChIJc3CxnWNt5kcR2vHsOAHxGfg",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "cafe",
+          "bar",
+          "liquor_store",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 39,
+        "vicinity": "127 Boulevard Chanzy, Montreuil"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.84125559999999,
+            "lng": 2.405179599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.84264768029149,
+              "lng": 2.406476030291501
+            },
+            "southwest": {
+              "lat": 48.83994971970849,
+              "lng": 2.403778069708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "TaKaDaM",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 892,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110839417724727833272\">TaKaDaM</a>"
+            ],
+            "photo_reference": "Aap_uEDrnN5bJlQCt3ezFqwQg6TQ8hx6hmvpCf_p0AOuab2Xf4pepfKSZKoT2-0QX8tMI2VbP1SGFSb7FuuuYaF2ItATwf9Ot1c68F_ViF_7lsxExUJUBKmfp6HYqRZAbHUxdktw8ukPA7Ue26Gx-OBE6kr7yZcpIiJOVeKDCJzrx0NeF_Hj",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJbYncKnNy5kcRQBleSZS6Kwo",
+        "plus_code": {
+          "compound_code": "RCR4+G3 Paris, France",
+          "global_code": "8FW4RCR4+G3"
+        },
+        "rating": 4.9,
+        "reference": "ChIJbYncKnNy5kcRQBleSZS6Kwo",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "electronics_store",
+          "home_goods_store",
+          "school",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "2 Rue de Rambervillers, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8571907,
+            "lng": 2.4343082
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8585627802915,
+              "lng": 2.435664430291502
+            },
+            "southwest": {
+              "lat": 48.8558648197085,
+              "lng": 2.432966469708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Le Prestige",
+        "place_id": "ChIJM3VigWBt5kcRTw17nr0M0LY",
+        "plus_code": {
+          "compound_code": "VC4M+VP Montreuil, France",
+          "global_code": "8FW4VC4M+VP"
+        },
+        "rating": 3.7,
+        "reference": "ChIJM3VigWBt5kcRTw17nr0M0LY",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 10,
+        "vicinity": "15 Rue Girard, Montreuil"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.84830849999999,
+            "lng": 2.3933693
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8495579302915,
+              "lng": 2.394690030291502
+            },
+            "southwest": {
+              "lat": 48.8468599697085,
+              "lng": 2.391992069708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Karaok\u00e9 Paradiso",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4333,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113771590838969337141\">Karaok\u00e9 Paradiso</a>"
+            ],
+            "photo_reference": "Aap_uEDW_6nUm6xnpNa7Nz8ACAaAOpDGAZBiAwmY7TBtomZ_7Vxh6dTtOrFOlF7Q_jJhUMWpqt97JlF4JT_xzg4QKVjBma271fBdGRo2GNKcqzcSlx6yRydZp8vsxYkSsk0uHPVJB4QlclesXT-kWP3aDiqXuDsR30e2mC6dztx1sqaoyxv_",
+            "width": 6499
+          }
+        ],
+        "place_id": "ChIJY-pqr8Nz5kcRqmhge3EFEQw",
+        "plus_code": {
+          "compound_code": "R9XV+88 Paris, France",
+          "global_code": "8FW4R9XV+88"
+        },
+        "reference": "ChIJY-pqr8Nz5kcRqmhge3EFEQw",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "135 Boulevard Diderot, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.86447679999999,
+            "lng": 2.406989799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.86587658029149,
+              "lng": 2.408343780291502
+            },
+            "southwest": {
+              "lat": 48.86317861970849,
+              "lng": 2.405645819708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "La Flex",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 983,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102633655485703798004\">La Flex</a>"
+            ],
+            "photo_reference": "Aap_uEDcMexiV-dy0px6ekbzxBvJ8FboFsQ6bK4DJ_xetS7EdQaN2x7cyQIIkzu3-TtvGCT_OnTzoAPW62y9FfrCfjkqzF-2k6GKNHv3F4rX79_1W5Uwki1Kq3YJANJEvxi5zUw4ApMPE5jRoCByjJnXD63xJmEJ9lTrdV10owBmyKrd8OVf",
+            "width": 699
+          }
+        ],
+        "place_id": "ChIJ53rUbclt5kcRIo7AN4JFw1g",
+        "plus_code": {
+          "compound_code": "VC74+QQ Paris, France",
+          "global_code": "8FW4VC74+QQ"
+        },
+        "reference": "ChIJ53rUbclt5kcRIo7AN4JFw1g",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "74 Rue Belgrand, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.83455550000001,
+            "lng": 2.4043075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8358953302915,
+              "lng": 2.405629180291502
+            },
+            "southwest": {
+              "lat": 48.8331973697085,
+              "lng": 2.402931219708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "ZUMA LOUNGE PARIS",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109858142478860540606\">ZUMA LOUNGE PARIS</a>"
+            ],
+            "photo_reference": "Aap_uEBOCTXPEcAlLJfUZnmtK7a788YEJerRFP_qYtEwlMc-7DYApgddWRyR7nzY3vtY_0i6cgFce7rZ7L3r-gPjlwPN451val44mSu3RQtzJ87OiKC9SzhhOsERzkAciDAk0IOguwr7ZZB5DkmsyIOrtqVQMYzJTtX2Xnkdf2W23ZmaJq8f",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJg6kYYqVz5kcRD5bHYdDRiPw",
+        "plus_code": {
+          "compound_code": "RCM3+RP Paris, France",
+          "global_code": "8FW4RCM3+RP"
+        },
+        "rating": 4.4,
+        "reference": "ChIJg6kYYqVz5kcRD5bHYdDRiPw",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 37,
+        "vicinity": "161 Rue de Picpus, Paris"
+      }
+    ],
+    "value": 350
+  },
+  "airport": {
+    "locations": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.8534394,
+            "lng": 2.4112887
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8548712302915,
+              "lng": 2.412593680291502
+            },
+            "southwest": {
+              "lat": 48.8521732697085,
+              "lng": 2.409895719708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "RELAX AIRPORT TAXI TRANSFER SHUTTLE SHUTTLE",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115319124569474932253\">RELAX SHUTTLE NAVETTE AEROPORT TAXI TRANSFERT</a>"
+            ],
+            "photo_reference": "Aap_uED6bS7yrgQJbZFaQxXRRjqiJgkC_oOBCBC5y4gYLpZTL7-v8jvcDjiGn9dEOSpuC0IOeo45mIPZZSN4WkpfImNQBrzCdcOsZ-gOjwdqTLeOnr3G2R_d1bgWgdiWOrVd5j0AjKAxlsZfiOVuGRuWTcmLTJmL_h8991TVIPeJl-mCtvJd",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJpT3L3X9y5kcRX7MFkRdBZRw",
+        "plus_code": {
+          "compound_code": "VC36+9G Paris, France",
+          "global_code": "8FW4VC36+9G"
+        },
+        "rating": 5,
+        "reference": "ChIJpT3L3X9y5kcRX7MFkRdBZRw",
+        "scope": "GOOGLE",
+        "types": [
+          "airport",
+          "moving_company",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "2 Avenue de la Porte de Montreuil, Paris"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 48.83455550000001,
+            "lng": 2.4043075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 48.8358953302915,
+              "lng": 2.405629180291502
+            },
+            "southwest": {
+              "lat": 48.8331973697085,
+              "lng": 2.402931219708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "VIP Club Paris",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJEXuA_l1y5kcR4nusG8lOpZc",
+        "plus_code": {
+          "compound_code": "RCM3+RP Paris, France",
+          "global_code": "8FW4RCM3+RP"
+        },
+        "rating": 5,
+        "reference": "ChIJEXuA_l1y5kcR4nusG8lOpZc",
+        "scope": "GOOGLE",
+        "types": [
+          "airport",
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "161 Rue de Picpus, Paris"
+      }
+    ],
+    "value": 20
+  },
+  "cafe": {
+    "locations": [],
+    "value": 0
+  },
+  "total_value": 1400
+}
