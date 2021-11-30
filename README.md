@@ -43,6 +43,10 @@ In this project we have used the following libraries:
  
 
  - [pymongo](https://pymongo.readthedocs.io/en/stable/)
+ 
+ 
+
+ - [os](https://docs.python.org/es/3.10/library/os.html)
 
 
 
