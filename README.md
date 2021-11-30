@@ -16,10 +16,10 @@ En este proyecto vamos a estudiar tres localizaciones para ubicar la sede de una
 
 De las tres localizaciones veremos cúal es la que cumple el mayor número de condiciones posibles. Para ello hemos seleccionado tres ubicaciones basadas en las sedes de tres empresas top en el sector del gaming.
 
-EMPRESA (PAIS / CALLE)
-Sony Interactive Ent (Tokio, Japón / Ginza Sony Park)
-Activision Blizzard	(Los Ángeles, California, USA / 3100 Ocean Park Blvd, Santa Monica, CA 90405, Estados Unidos)
-Ubisoft (Montreuil, Francia / 126 Rue de Lagny, 93100 Montreuil, Francia)
+- EMPRESA (PAIS / CALLE)
+- Sony Interactive Ent (Tokio, Japón / Ginza Sony Park)
+- Activision Blizzard	(Los Ángeles, California, USA / 3100 Ocean Park Blvd, Santa Monica, CA 90405, Estados Unidos)
+- Ubisoft (Montreuil, Francia / 126 Rue de Lagny, 93100 Montreuil, Francia)
 
 CONCLUSION
 
